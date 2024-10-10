@@ -8,21 +8,21 @@
 
 **Functional Requirements** 
 <code>Browse Product</code> 
-  -Search 
-  -Filter 
-  -Product Listing 
-  -Product Detail 
+  Search 
+  Filter 
+  Product Listing 
+  Product Detail 
 
 <code>Add to Cart</code> 
-  -Chart Page 
-  -Change Quantity 
-  -Price Summary 
+  Chart Page 
+  Change Quantity 
+  Price Summary 
   
 <code>Purchase Product</code> 
-  -Checkout Page 
-  -Address 
-  -Apply Coupen 
-  -Price Breakup 
+  Checkout Page 
+  Address 
+  Apply Coupen 
+  Price Breakup 
 
 **Non Functional Requirements** 
 <code>Device Support</code> 
