@@ -8,9 +8,13 @@
 
 **Functional Requirements** 
 <code>Browse Product</code> 
+
   Search 
+  
   Filter 
+  
   Product Listing 
+  
   Product Detail 
 
 <code>Add to Cart</code> 
