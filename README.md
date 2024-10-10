@@ -149,4 +149,12 @@
     - prefetch
 - web/cdn/ service worker, Lazy loading of images(load=lazy) | Image priority | Device Pixek ratio(DPI)
 - Adaptive loading (depending on network quality)
-- 
+
+
+**SEO**
+<title></title>
+<meta>
+sitemap.xml (page with all possible links)
+robots.txt (go to flipkart/robots.txt it contains what is allowed or disallowed)
+
+
