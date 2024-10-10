@@ -2,8 +2,9 @@
 
 
 ## E Commerce App
-**1.ConfiGurable UI - Home Page**
-**2.Browse & Purchase**
+
+**1.ConfiGurable UI - Home Page**  
+**2.Browse & Purchase**  
 
 
 **Functional Requirements** 
