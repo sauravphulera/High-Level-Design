@@ -55,3 +55,14 @@
 
 
 **Architecture**
+
+<code>View</code>
+
+- Browse Page Listing
+- Product Detail Page
+- Cart Page
+- Checkout
+
+<code>Storage</code>
+
+- 
