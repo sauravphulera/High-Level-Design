@@ -10,32 +10,32 @@
 
 <code>Browse Product</code> 
 
-  Search 
+ - Search 
   
-  Filter 
+ - Filter 
   
-  Product Listing 
+ - Product Listing 
   
-  Product Detail 
+ - Product Detail 
 
 <code>Add to Cart</code> 
 
-  Chart Page 
+ - Chart Page 
 
-  Change Quantity 
+ - Change Quantity 
   
-  Price Summary 
+ - Price Summary 
   
 
 <code>Purchase Product</code> 
 
-  Checkout Page 
+ - Checkout Page 
   
-  Address 
+ - Address 
   
-  Apply Coupen 
+ - Apply Coupen 
   
-  Price Breakup 
+ - Price Breakup 
 
 **Non Functional Requirements** 
 
